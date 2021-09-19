@@ -17,7 +17,7 @@
 
  ## 💡 Como contribuir com o projeto
 
-### 🔴 IMPORTANTE
+### 🔴 Requisitos
 
 - É necessário possuir a versão JDK corretto-11
 - Realizar Build do projeto
