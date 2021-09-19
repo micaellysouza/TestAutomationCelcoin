@@ -17,6 +17,12 @@
 
  ## 💡 Como contribuir com o projeto
 
+### 🔴 IMPORTANTE
+
+- É necessário possuir a versão JDK corretto-11
+- Realizar Build do projeto
+- Incluir variável de ambiente no IntelliJ, da seguinte forma: RUN > EDIT CONFIGURATIONS > ENVIRONMENT VARIABLES > EDIT ENVIRONMENT VARIABLES > ADD > Name = "senha" | Value = "(Colocar uma senha de sua preferência, no projeto utilizamos a senha = "S3NH@T3ST3")
+
 ```bash
 #Clone o projeto
 $ git clone https://github.com/micaellysouza/TestAutomationCelcoin.git
